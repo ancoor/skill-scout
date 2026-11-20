@@ -1,6 +1,6 @@
 ---
 name: skill-scout
-description: Analyse the current repository (including monorepos with several stacks), work out its tech stack, architecture and business domain, search skills.sh for the best matching agent skills (languages, frameworks, databases, infra, testing, code review, grilling, architecture, lifecycle), and let the user install all of them or pick which ones. Use when the user asks to find, recommend, suggest or set up skills for this repo or project, "what skills should I install", "scout skills", or runs /skill-scout.
+description: "Analyse the current repository (including monorepos with several stacks), work out its tech stack, architecture and business domain, search skills.sh for the best matching agent skills (languages, frameworks, databases, infra, testing, code review, grilling, architecture, lifecycle), and let the user install all of them or pick which ones. Use when the user asks to find, recommend, suggest or set up skills for this repo or project, \"what skills should I install\", \"scout skills\", or runs /skill-scout."
 ---
 
 # Skill Scout

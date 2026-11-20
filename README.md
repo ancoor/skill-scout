@@ -1,5 +1,7 @@
 # skill-scout
 
+[![skills.sh](https://skills.sh/b/ancoor/skill-scout)](https://skills.sh/ancoor/skill-scout)
+
 **Find and install the best agent skills for the repo you're in.**
 
 `skill-scout` is an [Agent Skill](https://agentskills.io) that:
