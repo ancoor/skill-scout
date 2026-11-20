@@ -1,0 +1,7 @@
+fastapi==0.115
+torch>=2
+scikit-learn
+pandas
+sqlalchemy
+psycopg2-binary
+pytest

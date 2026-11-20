@@ -1,0 +1,1 @@
+{"name":"console","dependencies":{"react":"18","@mui/material":"5","@reduxjs/toolkit":"2"},"devDependencies":{"vite":"5","typescript":"5","cypress":"13"}}

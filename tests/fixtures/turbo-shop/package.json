@@ -1,0 +1,1 @@
+{"name":"shop","private":true,"workspaces":["apps/*","packages/*"],"devDependencies":{"turbo":"^2","typescript":"^5","prettier":"^3"}}
